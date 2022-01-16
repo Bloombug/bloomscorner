@@ -1,4 +1,4 @@
-##Bloom's Corner
+## Bloom's Corner
 
 Small blog created using Hugo, Go and Netlify!
 
