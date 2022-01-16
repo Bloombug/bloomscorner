@@ -1,44 +1,19 @@
 +++
-title = "My First Post"
-description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-date = 2019-04-28T21:05:06+08:00
+title = "Hugo, Go and Rock n' Roll"
+description = "First post, dumb-dumb :)"
+date = 2021-01-16
 tags = [
-    "SSG",
+    "Go",
     "Hugo",
-    "Website",
 ]
-categories = ["Hugo", "Themes"]
 draft = false
 +++
 
->Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+So, here we are. After years of putting together sketchy Django servers, studying JS frameworks and considering using (gasp) Adobe Dreamweaver just to tell myself i can do something other than solve FizzBuzz exercises, i was finally able to set up a web development server AND deploy it on an actual website!!!
 
-# Lorep Ipsum
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Granted, i am using Netlify which makes things 100x easier compared to manually import files, configure routers and paths, and hope i made sure i imported every single dependency, but the effort is there: Hugo server (which runs on Go, which is quite awesome), a small but neat and efficient theme and a free Netlify account was all i needed to put this show on the road!
 
-# Heading Style
-# H1
-## H2
-### H3
+I am quite grateful that a) i can use Markdown to write posts (like this one!), b) i can also use HTML, CSS and JS for everything else, and c) Hugo pretty much takes everything and automagically creates a neat website, assuming you also chose a comprehensive theme that offered you a simple way to edit routers, layouts and assets...
 
-# Bulleting
-* **Lorem Ipsum**
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-* **Lorem Ipsum**
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Either way, i am excited to finally get to update and manage my own blog, no matter how messed up my code may be...
 
-# Highlight
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```

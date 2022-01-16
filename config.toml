@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://cereus-pro.netlify.com/"
 languageCode = "id-ID"
-title = "Cereus Pro | Hugo Theme"
+title = "Bloom's Corner"
 
 #Set googleAnalytics ID
 googleAnalytics = ""
@@ -9,18 +9,6 @@ googleAnalytics = ""
 hasCJKLanguage = false
 
 [params]
-	author = "arhen"
-	description = "Minimalist Blog Themes For Developer"
-	bio = "Blazing Fast & Minimalist Blog Themes"
-
-	twitter = "arhen_desu"
-
-	enableRSS = true
-	enableToc = true
-
-	enableDisqus = true
-	disqusShortname = "" #disqus shortname here
-
 
 	enableSummary = true
 	# Set the value to true if use description in post front matter replace content summary
@@ -73,7 +61,3 @@ hasCJKLanguage = false
 	githubRepo = ""
 
 # Add additional social link entries underneath
-[social]
-	twitter-square = "https://www.twitter.com/arhen_desu"
-	github-square = "https://www.github.com/arhen"
-	linkedin-square = "https://www.linkedin.com/in/rahmadslamet"
