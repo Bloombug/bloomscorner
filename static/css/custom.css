@@ -20,7 +20,7 @@
 }
 
 body {
-    font: 16px/1 'Noto Sans', "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Georgia, "Times New Roman", Times, sans-serif;
+    font: 16px/1 sans-serif;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
 }
@@ -134,14 +134,15 @@ h6 {
 }
 
 #post-body p {
+    font-family: sans-serif;
     --x-height-multiplier: 0.375;
     --baseline-multiplier: 0.17;
-    font-family: 'Noto Sans', "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Arial, serif;
+    font-family: sans-serif;
     letter-spacing: -.004em;
 }
 
 .welcome-description {
-    font-family: Georgia, serif;
+    font-family: sans-serif;
     color: #595959;
     margin-bottom: -20px;
 }

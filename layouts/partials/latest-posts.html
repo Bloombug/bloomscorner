@@ -6,6 +6,7 @@
     {{ range first 10 $othr }}
         <li>
             <a href="{{ .RelPermalink }}">{{ .LinkTitle }}<aside class="dates">{{ .Date.Format "Jan 2 2006" }}</aside></a>
+            
         </li>
     {{ end }}
 </ul>

@@ -10,7 +10,7 @@
                                     {{ .Title }}
                                 </h1>
                                 <h2 class="headline">
-                                {{ .Date.Format "Jan 2, 2006 15:04" }}
+                                {{ .Date.Format "Jan 2, 2006" }}
                                 · {{ if lt 1 .WordCount }}{{ .WordCount }} words{{ else }}{{ .WordCount }} word{{ end }}
                                 · {{ .ReadingTime }} minute read
                                 <span class="tags">
@@ -33,9 +33,6 @@
             {{ partial "footer.html" . }}
             </div>
         {{ partial "js.html" . }}
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js"></script>
-        <script>
-            hljs.initHighlightingOnLoad();
-        </script>
+        
     </body>
 </html>
