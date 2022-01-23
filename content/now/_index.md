@@ -1,31 +1,30 @@
 ---
 title: Now
-description: Dscribe what i'm doing right now... apparently
+description: Describe what i'm doing right now... apparently
 date: '2022-01-16'
 ---
-For people that need to know what the heck i am doing at the moment!
 
-## Work
+### Work
 
-Currently trying to get myself an internship, maybe even an entry level job to improve my XP skills; also trying to get myself some Python and Go skills (looking at Rust for a backup plan :D ).
+Currently trying to get myself an internship / entry level job to improve my XP; also trying to get myself some Python and Go skills (looking at Rust for a backup plan).
 
-## Relationship
+### Relationship
 
 Nope.
 
-## Personality
+### Personality
 
-I have one as well, yes.
+I have one, yes.
 
-## Books
+### Books
 
 *The Hunt for Red October*, *Betrayal* (About the *Boston Globe*'s work on child abuse involving the Catholic Church) and *The Hungover Cookbook*.
 
-## Social Media
+### Social Media
 
-My social activity is around [github](https://github.com/Bloombug), reddit and youtube.
+Any activity is around [github](https://github.com/Bloombug), reddit and youtube.
 
-## Coding activity
+### Coding activity
 
-Mostly focusing on Go and Python right now, but always interested on developing my Java and WebDev skills.
+Mostly focusing on Go and Python right now.
 
