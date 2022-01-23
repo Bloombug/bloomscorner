@@ -24,5 +24,5 @@ So, i will be trying to mend a few rough edges of my project, by following the a
 
 I also ended up removing all font scripts the template had, because who needs all varieties of Noto Sans, right? Sans-Serif works just fine! Long gone are the days where i would spend twice the amount of time and effort trying to find a neat font to put on my project, and half of it figuring out how a "router" works. 
 
-I guess for now, the website is running smoothly. I also found a neat [security check tool][https://www.ssltrust.com.au/ssl-tools/website-security-check] that allowed me to check if it has a valid SSL certificate, or if it is open to any known security flaws. Not bad for a weekend.
+I guess for now, the website is running smoothly. I also found a neat [security check tool](https://www.ssltrust.com.au/ssl-tools/website-security-check) that allowed me to check if it has a valid SSL certificate, or if it is open to any known security flaws. Not bad for a weekend.
 
