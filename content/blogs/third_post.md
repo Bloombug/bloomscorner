@@ -1,5 +1,5 @@
 +++
-title = "Saint Valentine's Day Blues, Ubuntu Budgie and R&B"
+title = "Saint Valentine's Day Blues and R&B"
 description = "A bit of a warning for the future, and a bit of appreciation for the past."
 date = 2022-02-12
 tags = [
