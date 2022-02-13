@@ -18,7 +18,7 @@ I have one, yes.
 
 ### Books
 
-*The Hunt for Red October*, *Betrayal* (About the *Boston Globe*'s work on child abuse involving the Catholic Church) and *The Hungover Cookbook*.
+*The Everything Store* and *The Revenant*.
 
 ### Social Media
 
@@ -26,5 +26,5 @@ Any activity is around [github](https://github.com/Bloombug), reddit and youtube
 
 ### Coding activity
 
-Mostly focusing on Go and Python right now.
+Mostly focusing on Python and Web Dev right now.
 
